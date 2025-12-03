@@ -1,4 +1,4 @@
-/* base.css */
+
 :root {
     --black: #111111;
     --medium-gray: #222222;
@@ -40,3 +40,4 @@ header nav ul li a.active {
     color: var(--orange);
     border-bottom: 2px solid var(--orange);
 }
+
