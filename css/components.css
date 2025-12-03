@@ -1,4 +1,4 @@
-/* components.css */
+
 .btn {
     display: inline-block;
     background-color: var(--btn-orange);
@@ -434,3 +434,4 @@ h2 {
         gap: 20px;
     }
 }
+
